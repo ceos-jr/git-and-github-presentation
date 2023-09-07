@@ -1134,3 +1134,15 @@ ou busque pela internet os seguintes tópicos
 
 Com isso você vai está utilizando o Git em 100% e não vai ser um leiteiro que ouve a palavra Rebase
 e fica morrendo de medo
+
+---
+
+# Conteúdo de Suporte
+
+- [Git Doc](https://git-scm.com/doc): Não existe lugar melhor do que a própria documentação do git
+- [Git Head](https://www.youtube.com/watch?v=ZaI1co-rt9I&pp=ugMICgJwdBABGAE%3D): Video sobre o que é um HEAD No git
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR): Desafios de Git para quem quiser se desafiar e praticar mais
+- [Learn Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI&pp=ygUKZ2l0IHJlYmFzZQ%3D%3D): Material para entender o conceito de Rebase
+- [Merge vs Rebase](https://www.youtube.com/watch?v=7Mh259hfxJg): Vídeo discutido o uso de Rebase vs Merge
+- [Git Worktree](https://www.youtube.com/watch?v=2uEqYw-N8uE&pp=ygUMZ2l0IHdvcmt0cmVl): Vídeo pelo ThePrimeagen sobre uma das melhores features do Git que ninguem sabe
+- [Git Bisect](https://www.youtube.com/watch?v=P3ZR_s3NFvM&pp=ugMICgJwdBABGAHKBQpnaXQgYmlzZWN0): Descubra o culpado por quebrar o código, você KEKW
